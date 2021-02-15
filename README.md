@@ -1,2 +1,3 @@
-# readme
-Project that points to the readme
+# Legislative.Tech README
+
+Check out https://gitlab.com/legislative-tech/readme for the current state of the organization.
